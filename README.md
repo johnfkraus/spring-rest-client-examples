@@ -39,3 +39,7 @@ return userData;
 "bs": "harness real-time e-markets"
 }
 },
+
+
+https://www.jsonschema2pojo.org/
+
